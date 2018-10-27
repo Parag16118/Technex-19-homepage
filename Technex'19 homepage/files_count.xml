@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<pagescount>
+	<html_total>1</html_total>
+	<html_done>1</html_done>
+	<img>12</img>
+	<js>11</js>
+	<css>5</css>
+	<pdf/>
+	<doc/>
+	<xls/>
+	<ppt/>
+	<swf/>
+	<mp3/>
+	<mp4/>
+	<wav/>
+	<xml/>
+	<txt/>
+	<fonts>7</fonts>
+	<scraping_reload>1</scraping_reload>
+	<is_pretty_url>true</is_pretty_url>
+	<is_ebn>false</is_ebn>
+	<theme_name>37913</theme_name>
+	<server_url_front_page>https://www.waybackmachinedownloader.com/scraping/files/demo/aurasens.com_parag16118_gmail.com_nu2ro5auqor</server_url_front_page>
+	<hosted_domain/>
+	<original_archive_url>https://web.archive.org/web/20180419052411/http://www.aurasens.com/</original_archive_url>
+	<final_archive_url>http://web.archive.org/web/20180419052411/http://www.aurasens.com/</final_archive_url>
+	<front_page_code_date>20180419052411</front_page_code_date>
+	<total_urls_from_api>1 page</total_urls_from_api>
+	<search_url_added>true</search_url_added>
+</pagescount>

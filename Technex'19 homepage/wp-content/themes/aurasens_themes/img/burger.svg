@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="17px" viewBox="0 0 24 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-hamburger</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square" opacity="0.5">
+        <g id="nav-mobile" transform="translate(-331.000000, -25.000000)" stroke="#EBCCC2">
+            <g id="icon-hamburger" transform="translate(331.000000, 24.000000)">
+                <g id="hamburger">
+                    <path d="M23.5,17.5 L0.5,17.5" id="Line"></path>
+                    <path d="M23.5,9.5 L0.5,9.5" id="Line"></path>
+                    <path d="M23.5,1.5 L0.5,1.5" id="Line"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

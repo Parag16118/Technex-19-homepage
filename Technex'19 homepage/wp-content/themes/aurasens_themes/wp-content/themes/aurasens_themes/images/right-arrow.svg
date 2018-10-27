@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="11px" viewBox="0 0 17 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Visual-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Aurasens---Partners" transform="translate(-1268.000000, -687.000000)" stroke="#EBCCC2">
+            <g id="01-copy-2" transform="translate(842.000000, 655.000000)">
+                <g id="arrow" transform="translate(426.000000, 33.000000)">
+                    <g id="Page-1">
+                        <path d="M0,4.5 L17,4.5" id="Stroke-1" stroke-linejoin="round"></path>
+                        <polyline id="Stroke-3" points="12 0 17 4.5 12 9"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
